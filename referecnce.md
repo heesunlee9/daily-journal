@@ -23,10 +23,16 @@ Deployment of c# web app using azure (1)
 Review Java web app development(1)
 Deployment of Java web app using aws(1) 
 
-Additional 
-c# review
-Java review
-Python review 
-Python web app development review (+ its deployment)
-Ios app dev (+its deployment)
+Additional   
+c# review  
+Java review  
+Python review   
+Python web app development review (+ its deployment)  
+Ios app dev (+its deployment)  
 
+# funding
+GrantForward    
+fellowships.rit.edu    
+
+# job
+https://www.rit.edu/careerservices/students/on-campus-employment

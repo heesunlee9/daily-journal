@@ -36,3 +36,6 @@ fellowships.rit.edu
 
 # job
 https://www.rit.edu/careerservices/students/on-campus-employment
+
+# events
+[Apple WWDC20](https://developer.apple.com/wwdc20/)

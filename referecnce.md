@@ -1,3 +1,5 @@
+infra test
+
 [Reference on Pull request](https://zellwk.com/blog/edit-pull-request/)
 
 RIT - READ
@@ -39,3 +41,5 @@ https://www.rit.edu/careerservices/students/on-campus-employment
 
 # events
 [Apple WWDC20](https://developer.apple.com/wwdc20/)
+Daily DevBlog
+courses : Udemy, Egghead, pluralsight

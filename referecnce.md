@@ -44,5 +44,5 @@ https://www.rit.edu/careerservices/students/on-campus-employment
 Daily DevBlog
 courses : Udemy, Egghead, pluralsight
 
-[How to reinstall](https://support.apple.com/ko-kr/HT204904)
+[How to reinstall Mac OS](https://support.apple.com/ko-kr/HT204904)
 

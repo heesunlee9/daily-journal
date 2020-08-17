@@ -30,16 +30,19 @@ c# review
 Java review  
 Python review   
 Python web app development review (+ its deployment)  
-Ios app dev (+its deployment)  
+Ios app dev (+its deployment) 
 
 # funding
 GrantForward    
 fellowships.rit.edu    
 
-# job
+# jo
 https://www.rit.edu/careerservices/students/on-campus-employment
 
 # events
 [Apple WWDC20](https://developer.apple.com/wwdc20/)
 Daily DevBlog
 courses : Udemy, Egghead, pluralsight
+
+[How to reinstall](https://support.apple.com/ko-kr/HT204904)
+

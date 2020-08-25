@@ -17,5 +17,5 @@ https://www.rit.edu/studentaffairs/iss/forms-documents/powerpoint-presentations 
 - 마지막 학기는 온라인 수업 못들음
 - 헨리에타 외에 여행 - With a travel signature from the current academic year (나중에 확인해야 함)
 
-AI - textbook homepage 
-http://aima.cs.berkeley.edu/
+학과 정보 
+https://www.rit.edu/computing/department-computer-science/resources#technical-and-online-resources

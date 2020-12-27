@@ -16,3 +16,6 @@ http://www.aitimes.com/news/articleView.html?idxno=130732
 
 [정지훈 해제] “굿모닝 AI”…곧 가을이 온다는데 딥러닝은 잘되고 있겠죠?
 https://firenzedt.com/?p=8005
+
+[LG유플러스, IoT 단말용 '양자보안칩' 개발]
+https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=030&aid=0002920366

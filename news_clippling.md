@@ -18,4 +18,7 @@ http://www.aitimes.com/news/articleView.html?idxno=130732
 https://firenzedt.com/?p=8005
 
 [LG유플러스, IoT 단말용 '양자보안칩' 개발]
-https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=030&aid=0002920366
+(https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=030&aid=0002920366)
+
+[지역SW에 올 436억 투입...281곳이 5천억 매출]
+(https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=092&aid=0002209076)

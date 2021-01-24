@@ -1,4 +1,44 @@
-# daily-journal
+# phd admission
+
+## 박사컨택 체크리스트
+한해 박사 입학인원?
+졸업하는 비율? 
+중도탈락 비율?
+qualification exam 통과율? 
+박사도중 전과사례 있는지?
+
+[정보]박사진학 support / mentoring 
+https://twitter.com/andrewkuznet/status/1321873786304663552
+
+# phd life
+박사 자퇴
+https://blog.naver.com/shberry16/220202780719
+
+학교가 작음 - 수업 선택권 적음 - 연구분야/지도교수 변경 까다로움, 랭킹이 전부는 아니다. 공대/컴퓨팅이 메인이 아닌 학교는 고민! \
+재학중인 사람의 레퍼런스 \
+강의조교하느라 내 연구 시간 부족해질 수 있음 \
+'결과 지향'! \
+도움을 받을 수 없는 문제. 실제 일하는 사람은 나혼자인 문제
+
+# job
+
+[방향]Developer 가 안맞을 때
+https://www.milemoa.com/bbs/board/5074193
+
+한국에서 실리콘 밸리 취업준비 시작하기(정보 많음)
+https://blog.naver.com/shberry16/220793580210
+
+마이크로소프트 인턴 면접
+https://steemit.com/kr/@inspiredjw/1
+
+
+# research tip 
+
+# general 
+
+[학문의 즐거움 요약](https://wno1.tistory.com/230)
+
+# travel
 Record I what I did during a day 
 
 Facilities 

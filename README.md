@@ -1,5 +1,12 @@
 # phd admission
 
+## research 
+The Heilmeier Catechism (read it later)
+https://www.darpa.mil/work-with-us/heilmeier-catechism
+
+how to do research 
+https://docs.google.com/presentation/d/1fWNPS5Ts2s13T3GFQIo_6H2LEOT1ZVHy-Pu_tDHHp_A/edit#slide=id.g1143eefb37_0_0
+
 ## 박사컨택 체크리스트
 한해 박사 입학인원?
 졸업하는 비율? 
@@ -35,10 +42,15 @@ https://blog.naver.com/shberry16/220793580210
 마이크로소프트 인턴 면접
 https://steemit.com/kr/@inspiredjw/1
 
+phd student's internship
+https://kirumang.tistory.com/56
 
 # research tip 
 
 # general 
+
+How to Have a Bad Career In Research/Academia 
+https://people.eecs.berkeley.edu/~pattrsn/talks/nontech.html
 
 [학문의 즐거움 요약](https://wno1.tistory.com/230)
 

@@ -6,6 +6,10 @@
 중도탈락 비율?
 qualification exam 통과율? 
 박사도중 전과사례 있는지?
+졸업자가 졸업하기 위해 걸린 시간
+선호하는 지원자 프로파일
+박사 졸업 요건
+비슷한 조건의 학교와 비교했을 때 이 학교 박사과정만의 장점?
 
 [정보]박사진학 support / mentoring 
 https://twitter.com/andrewkuznet/status/1321873786304663552

@@ -1,4 +1,6 @@
-# phd admission
+## phd admission
+미국 박사 준비(연구실적, 합격요인 - 연구성과가 중요)
+https://www.youtube.com/watch?v=3fB1mWY356U
 
 ## research 
 The Heilmeier Catechism (read it later)
@@ -21,7 +23,7 @@ qualification exam 통과율?
 [정보]박사진학 support / mentoring 
 https://twitter.com/andrewkuznet/status/1321873786304663552
 
-# phd life
+## phd life
 박사 자퇴
 https://blog.naver.com/shberry16/220202780719
 
@@ -31,7 +33,7 @@ https://blog.naver.com/shberry16/220202780719
 '결과 지향'! \
 도움을 받을 수 없는 문제. 실제 일하는 사람은 나혼자인 문제
 
-# job
+## job
 
 [방향]Developer 가 안맞을 때
 https://www.milemoa.com/bbs/board/5074193
@@ -45,16 +47,14 @@ https://steemit.com/kr/@inspiredjw/1
 phd student's internship
 https://kirumang.tistory.com/56
 
-# research tip 
-
-# general 
+## general 
 
 How to Have a Bad Career In Research/Academia 
 https://people.eecs.berkeley.edu/~pattrsn/talks/nontech.html
 
 [학문의 즐거움 요약](https://wno1.tistory.com/230)
 
-# travel
+## travel
 Record I what I did during a day 
 
 Facilities 

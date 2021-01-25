@@ -1,3 +1,5 @@
+
+
 ## phd admission
 미국 박사 준비(연구실적, 합격요인 - 연구성과가 중요)
 https://www.youtube.com/watch?v=3fB1mWY356U
@@ -46,6 +48,9 @@ https://steemit.com/kr/@inspiredjw/1
 
 phd student's internship
 https://kirumang.tistory.com/56
+
+data scientist
+https://m.blog.naver.com/mage7th/222017674100
 
 ## general 
 

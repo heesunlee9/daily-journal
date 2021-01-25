@@ -80,3 +80,25 @@ https://www.rit.edu/studentaffairs/iss/forms-documents/powerpoint-presentations 
 
 학과 정보 
 https://www.rit.edu/computing/department-computer-science/resources#technical-and-online-resources
+
+# self-introduction
+
+
+# self-introduction
+
+Hello, my name is Heesun Lee. I am a second-semester master student of Computer Science. 
+I am interesed in apply applied crytography to data security of cloud computing service. 
+You can see more information on me including my resume here : https://www.linkedin.com/in/leeheesuncs
+
+I am looking for team members who wants to do projects with me. 
+Please contact me via +1 585 200 9408 or jl8867@rit.edu. 
+
+I 'require' you to follow the below things during cooperation. 
+1. Academic honesty: last semester, my team had to wrote a summary report in one course. 
+one team member just copied sentences, whole paragraph and figures in one paper in the report. 
+That member did not stop doing that even after I ask her to stop it. This is not a contribution. 
+Please don't do such things. 
+
+2. Please be cooperative: 
+one team member of another project kept saying "I do not know", doing nothing and waiting for me to doing something. 
+Suggest constructive ideas and feedback based on your own effort. 

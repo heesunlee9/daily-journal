@@ -81,8 +81,6 @@ https://www.rit.edu/studentaffairs/iss/forms-documents/powerpoint-presentations 
 학과 정보 
 https://www.rit.edu/computing/department-computer-science/resources#technical-and-online-resources
 
-# self-introduction
-
 
 # self-introduction
 

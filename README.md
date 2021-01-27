@@ -99,3 +99,18 @@ That member did not stop doing it even after I asked her to stop it. This is not
 2. Please be cooperative: 
 One team member of another project kept saying "I do not know", doing nothing and waiting for me to do something. 
 Suggest constructive ideas and feedback based on your own effort. 
+
+# general interview question
+
+Why did you apply for this for position? 
+interest mathching, build experience, to utilize my skills and knowledge.
+
+What is your strength?
+
+
+What are your research topic?
+
+domain knowledge 
+
+questions? 
+How can you make sure that  good engineers 

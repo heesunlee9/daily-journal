@@ -4,12 +4,16 @@
 미국 박사 준비(연구실적, 합격요인 - 연구성과가 중요)
 https://www.youtube.com/watch?v=3fB1mWY356U
 
+교수님 체크 - 인간성/능력/인맥/연구페이퍼/졸업생이 뭐하는가?
+
 ## research 
 The Heilmeier Catechism (read it later)
 https://www.darpa.mil/work-with-us/heilmeier-catechism
 
 how to do research 
 https://docs.google.com/presentation/d/1fWNPS5Ts2s13T3GFQIo_6H2LEOT1ZVHy-Pu_tDHHp_A/edit#slide=id.g1143eefb37_0_0
+
+연구노트, 연구데이터 평소에 남기기. 기록!
 
 ## 박사컨택 체크리스트
 한해 박사 입학인원?
@@ -124,3 +128,7 @@ How can you make sure that  good engineers
 허나 그간 워크샵이나 학회에서 송 군을 봤다는 동료과학자가 없다. 송 군이 연구하는 주제는 우리나라에 전문가가 많지 않다. 그나마도 지도교수와 단 둘이 연구실에서 지내느라 자신의 연구를 검증받을 기회를 상당수 놓쳤다. (중략)
 송 군의 말은 사실과 달랐다. 천체물리학계의 전문가들은 송 군이 유도한 부분이 “큰 의미가 없는 작업”이라 평했고, “물리를 전공했으면 쉽게 할 수 있는 작업”이라며 독창성을 부인했다. 또 다른 전문가는 논문의 기초인 선행연구 조사조차 제대로 하지 않았다고 비판했다. 만약 송 군이 자신의 연구결과를 학계 전문가들 앞에서 미리 이야기했다면 조언을 얻었을 것이고, 그는 지금과 같은 고충을 겪지 않아도 됐을 것이다.
 - 과학동아변지민 기자
+
+# book report
+빅데이터는 거품이다 - 김동환
+https://blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=221148325955&parentCategoryNo=&categoryNo=11&viewDate=&isShowPopularPosts=false&from=postList

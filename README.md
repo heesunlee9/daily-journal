@@ -1,4 +1,7 @@
+## coursework
 
+how to study
+https://covenant.tistory.com/210
 
 ## phd admission
 미국 박사 준비(연구실적, 합격요인 - 연구성과가 중요)

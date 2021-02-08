@@ -228,7 +228,16 @@ How can you make sure that  good engineers
 송 군의 말은 사실과 달랐다. 천체물리학계의 전문가들은 송 군이 유도한 부분이 “큰 의미가 없는 작업”이라 평했고, “물리를 전공했으면 쉽게 할 수 있는 작업”이라며 독창성을 부인했다. 또 다른 전문가는 논문의 기초인 선행연구 조사조차 제대로 하지 않았다고 비판했다. 만약 송 군이 자신의 연구결과를 학계 전문가들 앞에서 미리 이야기했다면 조언을 얻었을 것이고, 그는 지금과 같은 고충을 겪지 않아도 됐을 것이다.
 - 과학동아변지민 기자
 
+mark zuckerberg harvard speech 
+https://www.youtube.com/watch?v=C5pPsmqwEis&t=8s
+
+mark zuckerberg risk
+https://www.youtube.com/watch?v=MQmoLCyMYto&t=597s
+
+
 # book report
 빅데이터는 거품이다 - 김동환
 https://blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=221148325955&parentCategoryNo=&categoryNo=11&viewDate=&isShowPopularPosts=false&from=postList
+
+
 

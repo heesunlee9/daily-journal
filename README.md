@@ -158,6 +158,9 @@ https://m.blog.naver.com/mage7th/222017674100
 graphics professor 
 https://m.blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=220998275865&proxyReferer=https:%2F%2Fwww.google.com%2F
 
+finding internship
+https://brunch.co.kr/@nyeric/20
+
 ## general 
 
 How to Have a Bad Career In Research/Academia 

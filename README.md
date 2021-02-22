@@ -1,6 +1,4 @@
-
-
-## coursework
+## coursework advice 
 
 math convention (e.g. suppose vs assume vs let)
 https://faculty.math.illinois.edu/~west/grammar.html#suppose
@@ -97,6 +95,13 @@ ex) 40명중 40등이다. 목표를 5등으로 했을 때, 작은 성공의 계�
 - 책을 계속 들춰 보면서 기억하는 것은 장기기억에 도움이 되지 않는다.
 - 어렵게 공부하면 잊기가 어렵다.
 
+## programming advice
+1. 태도 문제가 중요 \
+2. 막막해도 끝까지 마치기
+3. 시키는 것만 하지말고 의도를 파악하고 의도에 맞게 
+4. 자기계발에 욕심이 있느 사람
+5. 엄청 성실하거나 덜 성실해도 똑똑한 사람. 최고는 성실 + 똑똑
+6. 습득한 지식을 그대로 쓰는게 아니라 지식을 가져와 부품처럼 조립 
 
 
 ## phd admission

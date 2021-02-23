@@ -145,6 +145,8 @@ https://blog.naver.com/shberry16/220202780719
 
 ## job
 
+target: seattle, austin, boston, san francisco, nyc, raleigh-durhan
+
 [방향]Developer 가 안맞을 때
 https://www.milemoa.com/bbs/board/5074193
 

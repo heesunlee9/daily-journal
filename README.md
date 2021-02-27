@@ -1,3 +1,9 @@
+# book summary
+
+
+https://m.blog.naver.com/PostView.nhn?blogId=hahaseven&logNo=220685103071&proxyReferer=https:%2F%2Fwww.google.com%2F
+
+
 ## coursework advice 
 
 math convention (e.g. suppose vs assume vs let)

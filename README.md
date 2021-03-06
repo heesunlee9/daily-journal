@@ -1,5 +1,9 @@
-# book summary
+## good articles
 
+알고리즘이 필요한 진짜 이유
+https://brunch.co.kr/@chickenmoim/4
+
+## book summary
 
 https://m.blog.naver.com/PostView.nhn?blogId=hahaseven&logNo=220685103071&proxyReferer=https:%2F%2Fwww.google.com%2F
 

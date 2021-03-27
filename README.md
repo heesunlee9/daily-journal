@@ -265,12 +265,14 @@ https://blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=221148325955&parent
 [IT돋보기] 네이버 디도스 2차 공격 또 온다…장비증설·재발방지 '총력'
 https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=031&aid=0000590113
 
+
+
+https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=421&aid=0005248928
 IT 인력 확보 \
 기술개발 \
 과도한 제한을 완화하고 합리적인 기준을 마련 (형평성, 환경개선)
 
 
-https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=421&aid=0005248928
 
 
 

@@ -272,6 +272,8 @@ IT 인력 확보 \
 기술개발 \
 과도한 제한을 완화하고 합리적인 기준을 마련 (형평성, 환경개선)
 
+연고대 반도체학과 만든 삼성·SK…中은 대학마다 수백억 붓는다
+https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=008&aid=0004564741
 
 
 

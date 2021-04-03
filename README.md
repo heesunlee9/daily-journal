@@ -275,6 +275,6 @@ IT 인력 확보 \
 연고대 반도체학과 만든 삼성·SK…中은 대학마다 수백억 붓는다
 https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=008&aid=0004564741
 
-
-
+“연봉인상·자사주 잔치? 옆 회사 얘기” 판교의 한숨 소리
+https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003605744&rankingType=RANKING
 

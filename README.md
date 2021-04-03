@@ -278,3 +278,7 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=008&aid=00045
 “연봉인상·자사주 잔치? 옆 회사 얘기” 판교의 한숨 소리
 https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003605744&rankingType=RANKING
 
+
+창의력 + 문제해결력
+
+

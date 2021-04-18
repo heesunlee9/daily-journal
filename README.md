@@ -283,5 +283,8 @@ https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&a
 세계 석학이 본 반도체 기술의 미래…'강유전체·3D 집적'
 https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002219459&rankingType=RANKING
 
+Chapter 20 K-means Clustering
+https://bradleyboehmke.github.io/HOML/kmeans.html
+
 
 

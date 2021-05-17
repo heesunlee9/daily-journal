@@ -356,6 +356,10 @@ https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&a
 옥스퍼드 유학생→5000억원 잭팟…'스타 창업가' 90년생이 왔다
 https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005342140&rankingType=RANKING
 
+[단독/PL법 대수술 ②] 모호했던 SW사고 책임·권리 분명히…업계 "지나친 부담"
+https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=119&aid=0002493509
+
+
 # others 
 알고리즘이 필요한 진짜 이유
 https://brunch.co.kr/@chickenmoim/4
@@ -365,6 +369,7 @@ https://www.youtube.com/watch?v=C5pPsmqwEis&t=8s
 
 mark zuckerberg risk
 https://www.youtube.com/watch?v=MQmoLCyMYto&t=597s
+
 
 
 
